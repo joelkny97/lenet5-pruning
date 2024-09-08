@@ -1,0 +1,1 @@
+This repository contains the notebook files for the analysis and pruning techniques employed for compression of weights of a Convolutional Neural Network with no significant loss in accuracy and reduced storage and memory requirements
